@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24.828" viewBox="0 0 24 24.828">
+  <g id="Icon_Repeat" data-name="Icon Repeat" transform="translate(0 0.414)">
+    <rect id="Bounds" width="24" height="24" fill="none" opacity="0"/>
+    <g id="Group" transform="translate(3 1)">
+      <path id="Shape" d="M0,0,4,4,0,8" transform="translate(14)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-2" data-name="Shape" d="M0,6V4A4,4,0,0,1,4,0H18" transform="translate(0 4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-3" data-name="Shape" d="M4,8,0,4,4,0" transform="translate(0 14)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-4" data-name="Shape" d="M18,0V2a4,4,0,0,1-4,4H0" transform="translate(0 12)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

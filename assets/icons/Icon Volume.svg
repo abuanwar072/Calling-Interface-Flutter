@@ -1,0 +1,7 @@
+<svg id="Icon_Volume" data-name="Icon Volume" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="Bounds" width="36" height="36" fill="none" opacity="0"/>
+  <g id="Group" transform="translate(3 7)">
+    <path id="Shape" d="M13.5,0,6,6H0v9H6l7.5,6V0Z" transform="translate(0 0.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Shape-2" data-name="Shape" d="M5.295,21.21V0A14.9,14.9,0,0,1,9.687,10.6,14.9,14.9,0,0,1,5.3,21.209ZM0,15.9V5.295A7.51,7.51,0,0,1,0,15.9Z" transform="translate(20.31 0.395)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

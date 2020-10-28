@@ -1,0 +1,8 @@
+<svg id="Icon_Voicemail" data-name="Icon Voicemail" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="Bounds" width="36" height="36" fill="none" opacity="0"/>
+  <g id="Group" transform="translate(1.5 10.5)">
+    <circle id="Oval" cx="6.75" cy="6.75" r="6.75" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Oval-2" data-name="Oval" cx="6.75" cy="6.75" r="6.75" transform="translate(19.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Shape" d="M0,0H19.5" transform="translate(6.75 13.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

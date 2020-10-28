@@ -1,0 +1,9 @@
+<svg id="Icon_User" data-name="Icon User" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <path id="Bounds" d="M0,0H36V36H0Z" fill="none" opacity="0"/>
+  <g id="Group" transform="translate(1.5 4.5)">
+    <path id="Shape" d="M22.5,9V6a6,6,0,0,0-6-6H6A6,6,0,0,0,0,6V9" transform="translate(0 18)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Oval" cx="6" cy="6" r="6" transform="translate(6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Shape-2" data-name="Shape" d="M0,0V9" transform="translate(28.5 7.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Shape-3" data-name="Shape" d="M9,0H0" transform="translate(24 12)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
