@@ -49,7 +49,6 @@ class GroupCallScreen extends StatelessWidget {
                 iconSrc: "assets/icons/Icon Mic.svg",
                 press: () {},
               ),
-              Spacer(),
               RoundedButton(
                 color: Color(0xFF2C384D),
                 iconColor: Colors.white,
@@ -57,7 +56,6 @@ class GroupCallScreen extends StatelessWidget {
                 iconSrc: "assets/icons/Icon Video.svg",
                 press: () {},
               ),
-              Spacer(),
               RoundedButton(
                 color: Color(0xFF2C384D),
                 iconColor: Colors.white,
